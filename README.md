@@ -1,4 +1,4 @@
-# Frontend Portfolio
+# PRAVEEN Portfolio
 
 ## link of web: https://praveen8006.github.io/praveen/
 
