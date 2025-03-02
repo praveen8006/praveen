@@ -16,7 +16,7 @@ Welcome to my Frontend Portfolio! This project showcases my skills, projects, an
 - **HTML5** - Semantic structure
 - **CSS3 & SCSS** - Styling and animations
 - **JavaScript (ES6+)** - Dynamic interactions
-- - **Bootstrap** - More styling
+- **Bootstrap** - More styling
 
 
 ## 📸 Preview
